@@ -22,7 +22,8 @@ def main():
             "hangzhou"
     ]
 
-    # club_url = get_list_clubs()
+    # Automatic selection of all clubs
+    club_url = get_list_clubs()
 
     df_imported = read_current_database()
 
