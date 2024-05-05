@@ -31,6 +31,35 @@ Download the files and run `main.py`
 
 **Database Creation:** Store the collected player data in a database for easy retrieval and analysis.
 
+
+# Data Visualization with Power BI
+
+Team Analysis
+
+<img src="assets/1.png" alt="Image 1" width="600"/>
+
+Player Analysis
+
+<img src="assets/2.png" alt="Image 1" width="600"/>
+
+Top Goal Scorers
+
+<img src="assets/3.png" alt="Image 1" width="600"/>
+
+Players Comparison
+
+<img src="assets/4.png" alt="Image 1" width="600"/>
+
+Players Performance
+
+<img src="assets/5.png" alt="Image 1" width="600"/>
+<img src="assets/6.png" alt="Image 1" width="600"/>
+
+Overall Dataset Analysis by player country throught the years
+
+<img src="assets/7.png" alt="Image 1" width="600"/>
+
+
 # Author
 
 Marcos Paulo Dal Maso
